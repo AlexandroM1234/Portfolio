@@ -1,5 +1,5 @@
 import React from "react";
-import { ChipIcon, BadgeCheckIcon } from "@heroicons/react/solid";
+import { ChipIcon } from "@heroicons/react/solid";
 import { skills } from "../data";
 
 const importAll = (r) => {
