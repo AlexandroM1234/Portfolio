@@ -18,14 +18,14 @@ export const skills = [
 export const projects = [
   {
     title: "EnCon",
-    subtile: "React",
+    subtitle: "React & SCSS",
     description: "EnCon lets users see and track their energy usage.",
     image: "",
     link: "https://master.d3dr1o3e9t60pz.amplifyapp.com/",
   },
   {
     title: "How To",
-    subtile: "React & Redux",
+    subtitle: "React & Redux",
     description:
       "How-To is an application that acts as an information form and board to post How-To guides for a variety of activities ranging from tech to D.I.Y. projects.",
     image: "",
@@ -33,10 +33,17 @@ export const projects = [
   },
   {
     title: "Expat Journal API",
-    subtile: "Express & SQL",
+    subtitle: "Express & SQL",
     description:
-      "An API and database built for a team of front-end engineers to receive images and user data. ",
+      "An API and database built for a team of front-end engineers to receive images and user data.",
     image: "",
     link: "https://expat-journal-server.herokuapp.com/",
+  },
+  {
+    title: "Productivity Pro",
+    subtitle: "React & Chakra UI",
+    description: "A web app used to help users get day to day tasks done.",
+    image: "",
+    link: "https://github.com/AlexandroM1234/ProductivityPro",
   },
 ];
