@@ -40,10 +40,10 @@ export const projects = [
     link: "https://expat-journal-server.herokuapp.com/",
   },
   {
-    title: "Productivity Pro",
-    subtitle: "React & Chakra UI",
-    description: "A web app used to help users get day to day tasks done.",
+    title: "Web Developer Portfolio",
+    subtitle: "React & Tailwind CSS",
+    description: "My Personal Web Developer Portfolio",
     image: "",
-    link: "https://github.com/AlexandroM1234/ProductivityPro",
+    link: "https://github.com/AlexandroM1234/Portfolio",
   },
 ];
