@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../me.svg";
+import me from "../svgs/me.svg";
 
 const About = () => {
   return (

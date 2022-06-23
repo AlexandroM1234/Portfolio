@@ -1,0 +1,16 @@
+export const skills = [
+  "HTML",
+  "CSS",
+  "Javascript",
+  "Typescript",
+  "React",
+  "Node",
+  "Python",
+  "GraphQL",
+  "MongoDB",
+  "PostgreSQL",
+  "Sqlite3",
+  "Express",
+  "Cypress",
+  "Git",
+];
